@@ -82,7 +82,9 @@
       width: 120px;
       margin: 5px;
   }
- 
+ #editor{
+     text-decoration: none;
+}
   label{
     margin: 12px ;
   }
